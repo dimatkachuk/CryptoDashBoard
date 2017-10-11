@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("../fonts/Roboto-Regular.eot?#iefix") format("embedded-opentype"), 
+       url("../fonts/Roboto-Regular.woff") format("woff"), 
+       url("../fonts/Roboto-Regular.ttf")  format("truetype"),
+       url("../fonts/Roboto-Regular.svg#svgFontName") format("svg");
+}
+@font-face {
+  font-family: "Roboto-Light";
+  src: url("../fonts/Roboto-Light.eot?#iefix") format("embedded-opentype"), 
+       url("../fonts/Roboto-Light.woff") format("woff"), 
+       url("../fonts/Roboto-Light.ttf")  format("truetype"),
+       url("../fonts/Roboto-Light.svg#svgFontName") format("svg");
+}
+@font-face {
+  font-family: "Dosis-Bold";
+  src: url("../fonts/Dosis-Bold.eot?#iefix") format("embedded-opentype"), 
+       url("../fonts/Dosis-Bold.woff") format("woff"), 
+       url("../fonts/Dosis-Bold.ttf")  format("truetype"),
+       url("../fonts/Dosis-Bold.svg#svgFontName") format("svg");
+}
+@font-face {
+  font-family: "Nunito-Regular";
+  src: url("../fonts/Nunito-Regular.eot?#iefix") format("embedded-opentype"), 
+       url("../fonts/Nunito-Regular.woff") format("woff"), 
+       url("../fonts/Nunito-Regular.ttf")  format("truetype"),
+       url("../fonts/Nunito-Regular.svg#svgFontName") format("svg");
+}
